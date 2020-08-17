@@ -1,0 +1,24 @@
+html{
+    background-color: lightgrey;
+}
+header{
+    position: sticky;
+    top:0;
+    background-color:lightgrey;
+    border: 3px solid black;
+}
+footer{
+    position: sticky;
+    bottom:0;
+    background-color:lightgrey;
+    border: 3px solid black;
+}
+.margin{
+    margin-top: 1%;
+}
+div{
+    border-style: solid;
+    border-width: 5px;
+    width:600;
+    height:460;
+}
